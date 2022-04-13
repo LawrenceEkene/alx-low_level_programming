@@ -1,20 +1,20 @@
-
-
 #include "main.h"
+
+
 
 /**
 
- * main - check the code.
-
- *
+ * main -Entry point
 
  * Return 1 if c is a letter
 
- * int c to print
+ * Return: Always 0
 
  */
 
-int _isalpha(int c)
+
+
+int _isalpha(char c)
 
 {
 

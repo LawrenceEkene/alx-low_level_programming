@@ -4,19 +4,21 @@
 
 /**
 
- * main - Entry point
+ * main -Entry point
 
- *
+ * _islower - single line and c contains value compared
 
- * _islower - single line and c have value compared
+ * Return: Always 0
 
  */
+
+
 
 int _islower(char c)
 
 {
 
-if(c < 'a' && c < 'z')
+if (c < 'a' && c < 'z')
 
 {
 
